@@ -1,7 +1,7 @@
 
 ![I'm proficient at React web application development](https://i.ibb.co/jZgF7sj/Another-Banner.png)
 
-<h1 align="center">Hi, I'm Hafizur</h1>
+<h1>Hi, I'm Hafizur</h1>
 <h3 align="center">I'm proficient at React, work as a junior web application developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=okshihafiz&label=Profile%20views&color=0e75b6&style=flat" alt="okshihafiz" /> </p>
