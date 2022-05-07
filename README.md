@@ -1,5 +1,5 @@
 
-![I'm proficient at React web application development](https://scontent.fdac68-1.fna.fbcdn.net/v/t39.30808-6/p320x320/271871207_1110549483031888_1145460938566069899_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeFFG5SOtk2TJwsyxjoKnDlE61vZSKVbBrDrW9lIpVsGsIdh3y1XzmZ8l8DyU7tqXVrUrrGxt13EN03eWvM0hsZb&_nc_ohc=h0HNwSXZoV8AX8wqD62&_nc_zt=23&_nc_ht=scontent.fdac68-1.fna&oh=00_AT_ygI8BtOEhn5mcTbtyEQkJ5vgl1i0wDwNgJIMOA4dbRA&oe=62127AC2)
+![I'm proficient at React web application development](https://i.ibb.co/jZgF7sj/Another-Banner.png)
 
 <h1 align="center">Hi, I'm Hafizur</h1>
 <h3 align="center">I'm proficient at React, work as a junior web application developer</h3>
