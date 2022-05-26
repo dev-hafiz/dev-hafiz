@@ -34,3 +34,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=okshihafiz&show_icons=true&locale=en" alt="okshihafiz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=okshihafiz&" alt="okshihafiz" /></p>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=okshihafiz)
