@@ -1,5 +1,5 @@
 
-![I'm proficient at React web application development](https://i.ibb.co/xYg7C8B/Hafizur-Rahman.png)
+![I'm proficient at React web application development]([https://i.ibb.co/xYg7C8B/Hafizur-Rahman.png](https://i.ibb.co/xYg7C8B/Hafizur-Rahman.png))
 
 <h1 align="left">Hi, I'm Hafizur</h1>
 <h3 align="left">I'm proficient at React, working as a junior web application developer</h3>
