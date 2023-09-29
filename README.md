@@ -5,7 +5,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-
+[![skills](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix)
 
 ## Technologies Badges
 <div align="center">    
