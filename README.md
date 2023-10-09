@@ -1,4 +1,4 @@
-(https://i.ibb.co/NsdZ08p/github-Banner.gif)
+![Banner](https://i.ibb.co/NsdZ08p/github-Banner.gif)
 
 
 
