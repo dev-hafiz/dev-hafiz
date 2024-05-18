@@ -1,5 +1,13 @@
 ![Banner](banner.gif)
 
+
+First, let me introduce myself
+👩‍💻 My name is Hafizur Rahman
+💻 I've been working in Frontend for 3 years plus.
+📈 Having started as a Junior QA (manual), I evolved into Senior Automation Engineer and then to Senior Software Developer in Test and Software BE Engineer (Java).
+🏢 I Worked in Deutsche Telekom IT Solutions RUS, Lineate and am now working in Natera.
+🧠 I'm a fan of looking for solutions that will make this or that process easier, even if it means I need to create it myself (tools, frameworks, scripts etc).
+⚡ I'm an amateur crypto enthusiast and investor and have recently got interested in running nodes.
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 
