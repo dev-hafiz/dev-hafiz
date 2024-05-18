@@ -16,6 +16,7 @@ Let me introduce myself!
 ⚡ An investigator for the upcoming casual future, curious to know how Starlink works and what is the following invention for the human progressive procedure stage.
 
 
+
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 
